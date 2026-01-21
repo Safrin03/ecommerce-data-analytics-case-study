@@ -15,7 +15,7 @@ The analysis spans the full funnel from order placement and communication engage
   Link to sql file - [business_metrics_analysis.sql](https://github.com/Safrin03/ecommerce-data-analytics-case-study/blob/5aea0051f79c1651cb748a27f06822618ce5e999/business_metrics_analysis.sql)
 
 - 🐍 **Python – Data Cleaning & Exploratory Analysis**  
-  Link to Notebook - [`data_cleaning_analysis.py`](./data_cleaning_analysis.py)](https://github.com/Safrin03/ecommerce-data-analytics-case-study/blob/5aea0051f79c1651cb748a27f06822618ce5e999/data_cleaning_analysis.ipynb)
+  Link to Notebook - [`data_cleaning_analysis.py`](https://github.com/Safrin03/ecommerce-data-analytics-case-study/blob/5aea0051f79c1651cb748a27f06822618ce5e999/data_cleaning_analysis.ipynb)
 
 - 📊 **Looker Studio Dashboard**  
   Link to Dashboard - [E-commerce Performance Analytics Dashboard](https://lookerstudio.google.com/reporting/18a4f5bc-385b-487e-9d8d-d2477a554d92)
