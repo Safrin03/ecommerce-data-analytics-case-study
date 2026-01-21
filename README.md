@@ -1,5 +1,7 @@
 # E-commerce Data Analytics Case Study
 
+![E-Commerce Analytics Dashboard](Dashboard_Screenshot.png)
+
 ## 📌 About the Project
 
 This project is an end-to-end data analytics case study based on a real-world **E-commerce platform** (Supertails) operating in the D2C pet care space. \
