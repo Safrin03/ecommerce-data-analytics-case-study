@@ -9,8 +9,19 @@ The analysis spans the full funnel from order placement and communication engage
 
 ⚠️ Note: This project is presented as a generalized case study for portfolio purposes. All analysis focuses on problem-solving approach and insights rather than proprietary decision-making.
 
+## 📂 Project Files
 
-## 📊 Project Summary
+- 📄 **SQL – Business Metrics & Analysis**  
+  Link to sql file - [business_metrics_analysis.sql](https://github.com/Safrin03/ecommerce-data-analytics-case-study/blob/5aea0051f79c1651cb748a27f06822618ce5e999/business_metrics_analysis.sql)
+
+- 🐍 **Python – Data Cleaning & Exploratory Analysis**  
+  Link to Notebook - [`data_cleaning_analysis.py`](./data_cleaning_analysis.py)](https://github.com/Safrin03/ecommerce-data-analytics-case-study/blob/5aea0051f79c1651cb748a27f06822618ce5e999/data_cleaning_analysis.ipynb)
+
+- 📊 **Looker Studio Dashboard**  
+  Link to Dashboard - [E-commerce Performance Analytics Dashboard](https://lookerstudio.google.com/reporting/18a4f5bc-385b-487e-9d8d-d2477a554d92)
+
+
+## 🔍 Project Summary
 
 The analysis reveals that while the platform demonstrates strong revenue generation and customer retention, there are operational bottlenecks impacting customer experience and downstream metrics such as repeat purchase rate and CSAT.
 
